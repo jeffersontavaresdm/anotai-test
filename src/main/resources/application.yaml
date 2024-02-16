@@ -6,3 +6,6 @@ spring:
       database: anotai
       username: anotai
       password: anotai
+  output:
+    ansi:
+      enabled: always
